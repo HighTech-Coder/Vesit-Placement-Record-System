@@ -10,3 +10,16 @@ The system has four modules :
 -Student Module: The student module stores student details and their placement status which can be modified or deleted as and when required.
 
 -Statistical Module: The statistical module uses the pictorial representation to display the statistics of students placed in a particular company in the form of a bar graph.
+
+## Table of contents
+* [General info] (# general-info)
+* [Technologies] (# technologies)
+* [Setup] (# setup)
+
+## General info
+This project is simple Placement Record System .
+	
+## Technologies
+Project is created with:
+* HTML version: 5
+* PHP version: 7.3.2
