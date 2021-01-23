@@ -24,7 +24,6 @@ Project is created with:
 * HTML version: 5
 * PHP version: 7.3.2
 
-##Screenshots of the website
+## Screenshots of the website
 
-##Home Page
-blob:https://web.whatsapp.com/e5be1afe-4a5c-4c1c-b8a4-d745d47a0567
+
