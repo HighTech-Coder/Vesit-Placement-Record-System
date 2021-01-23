@@ -26,4 +26,11 @@ Project is created with:
 
 ## Screenshots of the website
 
+## Home Page
+![Home](https://user-images.githubusercontent.com/67001353/105611084-46150080-5dd9-11eb-8170-05f9588e10b9.jpeg)
+
+## Login Page
+![login](https://user-images.githubusercontent.com/67001353/105611089-4dd4a500-5dd9-11eb-8bb4-f8967154a541.jpeg)
+
+
 
